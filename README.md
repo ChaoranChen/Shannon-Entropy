@@ -4,5 +4,5 @@
 
 ## Work plan for week1    
 
-calculate the differential entropy for the certain function         
-make a good sampler for the certain fuction 
+1. Calculate the differential entropy for the certain function.        
+2. Make a good sampler for the certain fuction.
